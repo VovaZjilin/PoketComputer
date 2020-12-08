@@ -1,12 +1,2 @@
 "# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
-"# PoketComputer" 
+
